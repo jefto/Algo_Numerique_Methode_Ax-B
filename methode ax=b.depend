@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1739245266 source:d:\semestre3\algorritmique numeriques mth1300\methode ax=b\methodeindirecte.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"methodeDirecte.h"
+	"methodeIndirecte.h"
+	"fonctionnalite.h"
+
+1739223112 d:\semestre3\algorritmique numeriques mth1300\methode ax=b\methodeindirecte.h
+
+1738706853 source:d:\semestre3\algorritmique numeriques mth1300\methode ax=b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"methodeDirecte.h"
+	"methodeIndirecte.h"
+	"fonctionnalite.h"
+
+1739239243 d:\semestre3\algorritmique numeriques mth1300\methode ax=b\methodedirecte.h
+
+1739240808 d:\semestre3\algorritmique numeriques mth1300\methode ax=b\fonctionnalite.h
+
+1739240474 source:d:\semestre3\algorritmique numeriques mth1300\methode ax=b\methodedirecte.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"methodeDirecte.h"
+	"methodeIndirecte.h"
+	"fonctionnalite.h"
+
+1739280918 source:d:\semestre3\algorritmique numeriques mth1300\methode ax=b\fonctionnalite.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"methodeDirecte.h"
+	"methodeIndirecte.h"
+	"fonctionnalite.h"
+
